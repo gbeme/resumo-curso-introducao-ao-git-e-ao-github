@@ -1,0 +1,19 @@
+  A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA(Agência de Segurança Nacional dos EUA).
+
+SHA1 (algoritmo de criptação) - Ele vai criptografar o arquivo escolhido.
+
+A encriptação gera conjunto de caracteres identificador de 40 dígitos. (único - serve como identificação)
+
+O Github é um repositório remoto.
+
+O Git é um sistema distribuído e seguro.
+
+Comandos do Git:
+git init - para iniciar repositório do git
+git add - para mover arquivos
+git commit - para criar commit usando o git commit
+ctrl + l - limpa a tela
+ls -a - mostra arquivos ocultos
+
+
+
